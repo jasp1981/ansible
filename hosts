@@ -1,0 +1,12 @@
+[all:var]
+ansible_user=adminUsername
+
+[master]
+192.168.1.10
+
+[worker]
+192.168.1.11
+192.168.1.12
+
+[nfs]
+192.168.1.13
